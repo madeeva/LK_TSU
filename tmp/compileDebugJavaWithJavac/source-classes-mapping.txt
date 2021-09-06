@@ -1,0 +1,169 @@
+com/example/lktsu/data/room/NewsDAO_Impl.java
+ com.example.lktsu.data.room.NewsDAO_Impl
+ com.example.lktsu.data.room.NewsDAO_Impl$1
+com/example/lktsu/StatementsActivity_GeneratedInjector.java
+ com.example.lktsu.StatementsActivity_GeneratedInjector
+com/example/lktsu/databinding/ActivityNewsBinding.java
+ com.example.lktsu.databinding.ActivityNewsBinding
+com/example/lktsu/Hilt_ContactsActivity.java
+ com.example.lktsu.Hilt_ContactsActivity
+ com.example.lktsu.Hilt_ContactsActivity$1
+dagger/hilt/internal/aggregatedroot/codegen/_com_example_lktsu_LKApp.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_example_lktsu_LKApp
+com/example/lktsu/data/room/MarksDAO_Impl.java
+ com.example.lktsu.data.room.MarksDAO_Impl
+ com.example.lktsu.data.room.MarksDAO_Impl$1
+com/example/lktsu/repositories/RoomRepositoryImpl_Factory.java
+ com.example.lktsu.repositories.RoomRepositoryImpl_Factory
+com/example/lktsu/databinding/ActivityMoreBinding.java
+ com.example.lktsu.databinding.ActivityMoreBinding
+hilt_aggregated_deps/_com_example_lktsu_di_DatabaseModule.java
+ hilt_aggregated_deps._com_example_lktsu_di_DatabaseModule
+com/example/lktsu/di/DatabaseModule_ProvideNewsDAOFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideNewsDAOFactory
+com/example/lktsu/databinding/ActivityLoginBinding.java
+ com.example.lktsu.databinding.ActivityLoginBinding
+com/example/lktsu/di/DatabaseModule_ProvideRoomRepositoryImplFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideRoomRepositoryImplFactory
+com/example/lktsu/databinding/ActivityContactsBinding.java
+ com.example.lktsu.databinding.ActivityContactsBinding
+com/example/lktsu/Hilt_NewsActivity.java
+ com.example.lktsu.Hilt_NewsActivity
+ com.example.lktsu.Hilt_NewsActivity$1
+com/example/lktsu/NewsActivity_GeneratedInjector.java
+ com.example.lktsu.NewsActivity_GeneratedInjector
+com/example/lktsu/MoreActivity_MembersInjector.java
+ com.example.lktsu.MoreActivity_MembersInjector
+com/example/lktsu/BuildConfig.java
+ com.example.lktsu.BuildConfig
+com/example/lktsu/LKApp_MembersInjector.java
+ com.example.lktsu.LKApp_MembersInjector
+dagger/hilt/internal/processedrootsentinel/codegen/_com_example_lktsu_LKApp.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_example_lktsu_LKApp
+com/example/lktsu/data/room/StatementDAO_Impl.java
+ com.example.lktsu.data.room.StatementDAO_Impl
+ com.example.lktsu.data.room.StatementDAO_Impl$1
+hilt_aggregated_deps/_com_example_lktsu_MarksActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_MarksActivity_GeneratedInjector
+com/example/lktsu/di/DatabaseModule_ProvideDatabaseFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideDatabaseFactory
+com/example/lktsu/di/DatabaseModule_ProvideStudentDAOFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideStudentDAOFactory
+com/example/lktsu/databinding/ActivityMainBinding.java
+ com.example.lktsu.databinding.ActivityMainBinding
+hilt_aggregated_deps/_com_example_lktsu_MoreActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_MoreActivity_GeneratedInjector
+com/example/lktsu/NewsActivity_MembersInjector.java
+ com.example.lktsu.NewsActivity_MembersInjector
+hilt_aggregated_deps/_com_example_lktsu_ContactsActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_ContactsActivity_GeneratedInjector
+com/example/lktsu/Hilt_MoreActivity.java
+ com.example.lktsu.Hilt_MoreActivity
+ com.example.lktsu.Hilt_MoreActivity$1
+hilt_aggregated_deps/_com_example_lktsu_LKApp_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_LKApp_GeneratedInjector
+com/example/lktsu/ContactsActivity_MembersInjector.java
+ com.example.lktsu.ContactsActivity_MembersInjector
+com/example/lktsu/databinding/ActivityScheduleBinding.java
+ com.example.lktsu.databinding.ActivityScheduleBinding
+com/example/lktsu/StatementsActivity_MembersInjector.java
+ com.example.lktsu.StatementsActivity_MembersInjector
+hilt_aggregated_deps/_com_example_lktsu_NewsActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_NewsActivity_GeneratedInjector
+com/example/lktsu/databinding/ActivityMarksBinding.java
+ com.example.lktsu.databinding.ActivityMarksBinding
+com/example/lktsu/data/room/AppDatabase_Impl.java
+ com.example.lktsu.data.room.AppDatabase_Impl
+ com.example.lktsu.data.room.AppDatabase_Impl$1
+com/example/lktsu/LKApp_GeneratedInjector.java
+ com.example.lktsu.LKApp_GeneratedInjector
+com/example/lktsu/MoreActivity_GeneratedInjector.java
+ com.example.lktsu.MoreActivity_GeneratedInjector
+com/example/lktsu/di/DatabaseModule_ProvideStatementDAOFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideStatementDAOFactory
+com/example/lktsu/Hilt_StatementsActivity.java
+ com.example.lktsu.Hilt_StatementsActivity
+ com.example.lktsu.Hilt_StatementsActivity$1
+com/example/lktsu/databinding/ActivityStatementsBinding.java
+ com.example.lktsu.databinding.ActivityStatementsBinding
+com/example/lktsu/data/room/HistoryDAO_Impl.java
+ com.example.lktsu.data.room.HistoryDAO_Impl
+ com.example.lktsu.data.room.HistoryDAO_Impl$1
+hilt_aggregated_deps/_com_example_lktsu_StatementsActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_StatementsActivity_GeneratedInjector
+com/example/lktsu/di/DatabaseModule_ProvideMarksDAOFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideMarksDAOFactory
+com/example/lktsu/Hilt_LKApp.java
+ com.example.lktsu.Hilt_LKApp
+ com.example.lktsu.Hilt_LKApp$1
+com/example/lktsu/data/room/StudentDAO_Impl.java
+ com.example.lktsu.data.room.StudentDAO_Impl
+ com.example.lktsu.data.room.StudentDAO_Impl$1
+ com.example.lktsu.data.room.StudentDAO_Impl$2
+ com.example.lktsu.data.room.StudentDAO_Impl$3
+ com.example.lktsu.data.room.StudentDAO_Impl$4
+ com.example.lktsu.data.room.StudentDAO_Impl$5
+hilt_aggregated_deps/_com_example_lktsu_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_example_lktsu_MainActivity_GeneratedInjector
+com/example/lktsu/di/DatabaseModule_ProvideHistoryDAOFactory.java
+ com.example.lktsu.di.DatabaseModule_ProvideHistoryDAOFactory
+com/example/lktsu/ContactsActivity_GeneratedInjector.java
+ com.example.lktsu.ContactsActivity_GeneratedInjector
+com/example/lktsu/MarksActivity_GeneratedInjector.java
+ com.example.lktsu.MarksActivity_GeneratedInjector
+com/example/lktsu/Hilt_MarksActivity.java
+ com.example.lktsu.Hilt_MarksActivity
+ com.example.lktsu.Hilt_MarksActivity$1
+com/example/lktsu/MainActivity_MembersInjector.java
+ com.example.lktsu.MainActivity_MembersInjector
+com/example/lktsu/MainActivity_GeneratedInjector.java
+ com.example.lktsu.MainActivity_GeneratedInjector
+com/example/lktsu/Hilt_MainActivity.java
+ com.example.lktsu.Hilt_MainActivity
+ com.example.lktsu.Hilt_MainActivity$1
+com/example/lktsu/DaggerLKApp_HiltComponents_SingletonC.java
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$1
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCI$ViewWithFragmentCI
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCI
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$Builder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.example.lktsu.DaggerLKApp_HiltComponents_SingletonC$ServiceCImpl
+com/example/lktsu/MarksActivity_MembersInjector.java
+ com.example.lktsu.MarksActivity_MembersInjector
+com/example/lktsu/LKApp_HiltComponents.java
+ com.example.lktsu.LKApp_HiltComponents
+ com.example.lktsu.LKApp_HiltComponents$ActivityC
+ com.example.lktsu.LKApp_HiltComponents$ActivityC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ActivityCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$ActivityRetainedC
+ com.example.lktsu.LKApp_HiltComponents$ActivityRetainedC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$FragmentC
+ com.example.lktsu.LKApp_HiltComponents$FragmentC$Builder
+ com.example.lktsu.LKApp_HiltComponents$FragmentCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$ServiceC
+ com.example.lktsu.LKApp_HiltComponents$ServiceC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ServiceCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$SingletonC
+ com.example.lktsu.LKApp_HiltComponents$ViewC
+ com.example.lktsu.LKApp_HiltComponents$ViewC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ViewCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$ViewModelC
+ com.example.lktsu.LKApp_HiltComponents$ViewModelC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ViewModelCBuilderModule
+ com.example.lktsu.LKApp_HiltComponents$ViewWithFragmentC
+ com.example.lktsu.LKApp_HiltComponents$ViewWithFragmentC$Builder
+ com.example.lktsu.LKApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/example/lktsu/LKApp_ComponentTreeDeps.java
+ com.example.lktsu.LKApp_ComponentTreeDeps

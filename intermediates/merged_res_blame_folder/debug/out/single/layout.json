@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contacts.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_news.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_statements.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_statements.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_more.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_marks.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_marks.xml"
+    },
+    {
+        "merged": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_schedule.xml",
+        "source": "C:\\Users\\karar\\AndroidStudioProjects\\LKTSU\\app\\src\\main\\res\\layout\\activity_schedule.xml"
+    }
+]
